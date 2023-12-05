@@ -30,8 +30,8 @@ export default async function MoviePage({
             maxWidth: '100%',
             height: '100%'
           }}
-          // placeholder='blur'
-          // blurDataURL='/loading.svg'
+          placeholder='blur'
+          blurDataURL='/loading.svg'
           alt='Movie poster'
         ></Image>
         <div className='p-2'>
