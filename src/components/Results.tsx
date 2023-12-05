@@ -1,5 +1,5 @@
 import Card from './Card';
-import { Result } from '../types';
+import { Result } from '../app/types';
 
 type ResultProps = { results: Result[] };
 
